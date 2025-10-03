@@ -1,4 +1,6 @@
-﻿# Modelos de linguagem
+﻿Link do repositório: https://github.com/siliciumtecnologia/Trabalho-DataScience.git
+
+# Modelos de linguagem
 
 Modelos de linguagem são modelos desenvolvidos para realizar o processamento de linguagem natural. Eles têm o objetivo de entender ou gerar textos na mesma linguagem gerada pelos seres humanos. Essa tarefa é difícil pois a linguagem humana conta com diversas informações implícitas (dependem de contexto) (Kumar, 2013).
 
